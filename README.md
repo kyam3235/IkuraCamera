@@ -12,3 +12,8 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+## API
+
+- Vertix API
+  - 有効にするにはFirebase Consoleのプランを従量課金に変更する必要がある
